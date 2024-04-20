@@ -105,7 +105,7 @@ rangeSelector: {
 	}, {
 		type: 'month',
 		count: 3,
-		text: '3m'
+		text: '9m'
 	}, {
 		type: 'month',
 		count: 6,
