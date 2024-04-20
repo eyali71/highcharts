@@ -115,8 +115,8 @@ rangeSelector: {
 		text: 'YTD'
 	}, {
 		type: 'year',
-		count: 1,
-		text: '1y'
+		count: 5,
+		text: '5y'
 	}, {
 		type: 'all',
 		text: 'All'
